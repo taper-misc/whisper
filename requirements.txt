@@ -4,3 +4,4 @@ tqdm
 more-itertools
 transformers>=4.19.0
 ffmpeg-python==0.2.0
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
